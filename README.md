@@ -1,8 +1,8 @@
 # Obsidian Slashpage Publisher
 
 <p align="center">
-  <img src="assets/obsidian.png" alt="Obsidian Logo" width="120" />
-  <img src="assets/slashpage.png" alt="Slashpage Logo" width="120" />
+  <img src="./assets/obsidian.png" alt="Obsidian Logo" width="120" />
+  <img src="./assets/slashpage.png" alt="Slashpage Logo" width="120" />
 </p>
 
 A plugin for publishing your Obsidian notes directly to [Slashpage](https://slashpage.com) using their Webhook API.
@@ -90,8 +90,8 @@ MIT License
 # 옵시디언 Slashpage 퍼블리셔
 
 <p align="center">
-  <img src="assets/obsidian.png" alt="옵시디언 로고" width="120" />
-  <img src="assets/slashpage.png" alt="슬래시페이지 로고" width="120" />
+  <img src="./assets/obsidian.png" alt="옵시디언 로고" width="120" />
+  <img src="./assets/slashpage.png" alt="슬래시페이지 로고" width="120" />
 </p>
 
 [Slashpage](https://slashpage.com)의 웹훅 API를 사용하여 옵시디언 노트를 직접 발행할 수 있는 플러그인입니다.
