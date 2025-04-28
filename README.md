@@ -1,8 +1,8 @@
 # Obsidian Slashpage Publisher
 
 <p align="center">
-  <img src="./assets/obsidian.png" alt="Obsidian Logo" width="120" />
-  <img src="./assets/slashpage.png" alt="Slashpage Logo" width="120" />
+  <img src="assets/obsidian.png" alt="Obsidian Logo" width="120" />
+  <img src="assets/slashpage.png" alt="Slashpage Logo" width="120" />
 </p>
 
 A plugin for publishing your Obsidian notes directly to [Slashpage](https://slashpage.com) using their Webhook API.
