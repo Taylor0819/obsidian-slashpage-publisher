@@ -1,5 +1,10 @@
 # Obsidian Slashpage Publisher
 
+<p align="center">
+  <img src="assets/obsidian.png" alt="Obsidian Logo" width="120" />
+  <img src="assets/slashpage.png" alt="Slashpage Logo" width="120" />
+</p>
+
 A plugin for publishing your Obsidian notes directly to [Slashpage](https://slashpage.com) using their Webhook API.
 
 > **Important**: Before using this plugin, you must apply to become a beta tester at [https://slashpage.com/slashpage-kr/betatester](https://slashpage.com/slashpage-kr/betatester) to get access to Slashpage's Webhook API. You can find documentation about the Webhook API at [https://help.slashpage.com/integration-webhook](https://help.slashpage.com/integration-webhook). The plugin will not work without a valid webhook token.
@@ -84,6 +89,11 @@ MIT License
 
 # 옵시디언 Slashpage 퍼블리셔
 
+<p align="center">
+  <img src="assets/obsidian.png" alt="옵시디언 로고" width="120" />
+  <img src="assets/slashpage.png" alt="슬래시페이지 로고" width="120" />
+</p>
+
 [Slashpage](https://slashpage.com)의 웹훅 API를 사용하여 옵시디언 노트를 직접 발행할 수 있는 플러그인입니다.
 
 > **중요**: 이 플러그인을 사용하기 전에 반드시 [https://slashpage.com/slashpage-kr/betatester](https://slashpage.com/slashpage-kr/betatester)에서 베타테스터로 신청하여 Slashpage의 웹훅 API 접근 권한을 받아야 합니다. 웹훅 API에 관한 문서는 [https://help.slashpage.com/integration-webhook](https://help.slashpage.com/integration-webhook)에서 확인할 수 있습니다. 유효한 웹훅 토큰 없이는 플러그인이 작동하지 않습니다.
@@ -163,3 +173,11 @@ MIT License
 ## 라이선스
 
 MIT 라이선스
+
+---
+
+<p align="center">
+  <a href="https://buymeacoffee.com/taylor0819" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" >
+  </a>
+</p>
