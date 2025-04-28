@@ -1,0 +1,28 @@
+{
+  "name": "obsidian-slashpage-publisher",
+  "version": "1.0.0",
+  "description": "옵시디언 노트를 Slashpage에 발행하는 플러그인",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
+    "version": "node version-bump.mjs && git add manifest.json versions.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "slashpage",
+    "publish"
+  ],
+  "author": "Obsidian User",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "builtin-modules": "^5.0.0",
+    "esbuild": "^0.25.3",
+    "obsidian": "^1.0.0",
+    "tslib": "^2.8.1",
+    "typescript": "^4.5.5"
+  }
+}
